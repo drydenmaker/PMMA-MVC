@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30110.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Included", "Included\Included.csproj", "{99EDD137-34ED-485A-A9B5-23E06365E190}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MasterUI", "MasterUI\MasterUI.csproj", "{DAF955DD-7EA2-4C11-B6B2-7DE61E0AA0F5}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://simmsfishing.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Included\\Included.csproj
+		SccProjectName1 = Included
+		SccLocalPath1 = Included
+		SccProjectUniqueName2 = MasterUI\\MasterUI.csproj
+		SccProjectName2 = MasterUI
+		SccLocalPath2 = MasterUI
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99EDD137-34ED-485A-A9B5-23E06365E190}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99EDD137-34ED-485A-A9B5-23E06365E190}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99EDD137-34ED-485A-A9B5-23E06365E190}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99EDD137-34ED-485A-A9B5-23E06365E190}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAF955DD-7EA2-4C11-B6B2-7DE61E0AA0F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAF955DD-7EA2-4C11-B6B2-7DE61E0AA0F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAF955DD-7EA2-4C11-B6B2-7DE61E0AA0F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAF955DD-7EA2-4C11-B6B2-7DE61E0AA0F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
